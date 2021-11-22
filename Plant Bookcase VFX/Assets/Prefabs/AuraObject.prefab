@@ -45,5 +45,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   auraSegmentPrefab: {fileID: 336134585768777448, guid: d0a14aa6ae2534f0b89c4cd8c795ddd2,
     type: 3}
-  segmentCount: 10
+  segmentCount: 32
   auraRadius: 2

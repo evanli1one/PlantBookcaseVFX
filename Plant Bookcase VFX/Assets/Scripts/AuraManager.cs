@@ -14,8 +14,6 @@ public class AuraManager : MonoBehaviour
     private float rotationIncrement;
     private List<GameObject> auraSegmentList = new List<GameObject>();
 
-
-
     private void Awake()
     {
         Construct();
