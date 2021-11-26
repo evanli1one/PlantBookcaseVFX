@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9ff56b2a666fc41ce8cd087104602093
+guid: b682c030fcf8b4bc1ae5120e50f8d3f5
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -27,9 +27,9 @@ ScriptedImporter:
     importMeshes: 1
     importPoints: 0
   abcStartTime: 0
-  abcEndTime: 1.9166666666666667
+  abcEndTime: 6
   startTime: 0
-  endTime: 1.9166666666666667
+  endTime: 6
   importWarning: 
   varyingTopologyMeshNames:
   - MeshShape
