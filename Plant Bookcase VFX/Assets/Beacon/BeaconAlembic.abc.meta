@@ -28,8 +28,8 @@ ScriptedImporter:
     importPoints: 0
   abcStartTime: 0.016666666666666666
   abcEndTime: 4.333333333333333
-  startTime: 0.016666666666666666
-  endTime: 4.333333333333333
+  startTime: 0.09888888895511627
+  endTime: 4.292222499847412
   importWarning: 
   varyingTopologyMeshNames:
   - rootShape1
