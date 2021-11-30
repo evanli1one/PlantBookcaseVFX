@@ -1,0 +1,50 @@
+fileFormatVersion: 2
+guid: 2383e1d5346694d5d8c9acb2081ee575
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f53f5fc499d31e44b9deee84d28a9ee8, type: 3}
+  rootGameObjectId: Beacon08
+  rootGameObjectName: Beacon08
+  streamSettings:
+    normals: 1
+    tangents: 1
+    cameraAspectRatio: 2
+    importVisibility: 1
+    scaleFactor: 0.1
+    swapHandedness: 1
+    flipFaces: 0
+    interpolateSamples: 1
+    importPointPolygon: 1
+    importLinePolygon: 1
+    importTrianglePolygon: 1
+    importXform: 1
+    importCameras: 1
+    importMeshes: 1
+    importPoints: 0
+  abcStartTime: 0.016666666666666666
+  abcEndTime: 4.333333333333333
+  startTime: 0.016666666666666666
+  endTime: 4.333333333333333
+  importWarning: 
+  varyingTopologyMeshNames:
+  - rootShape1
+  - rootShape4
+  - sweepShape11
+  - sweepShape11
+  - sweepShape12
+  - sweepShape12
+  - sweepShape10
+  - rootShape3
+  - sweepShape10
+  - rootShape5
+  - rootShape6
+  - rootShape7
+  - rootShape2
+  - mainStemShape
+  splittingMeshNames: []
+  firstImport: 0
