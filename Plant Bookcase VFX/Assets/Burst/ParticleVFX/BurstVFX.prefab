@@ -220,6 +220,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   effect: {fileID: 1305631029}
+  particles: {fileID: 0}
   loop: 0
   startDelay: 0
   endDelay: 0
@@ -236,7 +237,7 @@ GameObject:
   - component: {fileID: 1496714221}
   - component: {fileID: 1496714224}
   m_Layer: 0
-  m_Name: DecayDust
+  m_Name: DecayLeaves
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -265,8 +266,8 @@ VisualEffect:
   m_GameObject: {fileID: 1496714220}
   m_Enabled: 1
   m_Asset: {fileID: 8926484042661614526, guid: e935356e2eaec4e8db21f7c0a694a3fe, type: 3}
-  m_InitialEventName: 
-  m_InitialEventNameOverriden: 1
+  m_InitialEventName: OnPlay
+  m_InitialEventNameOverriden: 0
   m_StartSeed: 0
   m_ResetSeedOnPlay: 1
   m_PropertySheet:
@@ -344,6 +345,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   effect: {fileID: 1496714222}
+  particles: {fileID: 0}
   loop: 0
   startDelay: 1.5
   endDelay: 0
@@ -567,6 +569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   effect: {fileID: 1987946579}
+  particles: {fileID: 0}
   loop: 0
   startDelay: 1
   endDelay: 0
@@ -692,6 +695,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   effect: {fileID: 2062304654}
+  particles: {fileID: 0}
   loop: 0
   startDelay: 0.8
   endDelay: 4.25
